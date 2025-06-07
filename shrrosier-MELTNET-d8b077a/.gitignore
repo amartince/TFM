@@ -1,0 +1,11 @@
+# exclude certain files
+*.asv
+*.mat
+*.DS_Store
+!validation_meltrates/*.mat
+!training_inputs/*.mat
+!validation_inputs/*.mat
+prueba*
+!prueba_converter.m
+c1a.mat
+yPred.mat

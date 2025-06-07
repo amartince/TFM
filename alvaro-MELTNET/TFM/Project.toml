@@ -1,0 +1,22 @@
+name = "TFM"
+uuid = "a3fcd8f7-9ded-4060-9023-4c6851cfbb08"
+authors = ["Alvaro "]
+version = "0.1.0"
+
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[compat]
+BSON = "0.3.9"
+CairoMakie = "0.13.4"
+FileIO = "1.17.0"
+Flux = "0.16.3"
+Images = "0.26.2"
+MAT = "0.10.7"
+Statistics = "1.11.1"
